@@ -1,0 +1,23 @@
+{
+  "name": "cache-warmer",
+  "version": "1.0.0",
+  "description": "Simulate Full Page Load with JavaScript (Using Puppeteer)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rondeo-balos/cache-warmer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rondeo-balos/cache-warmer/issues"
+  },
+  "homepage": "https://github.com/rondeo-balos/cache-warmer#readme",
+  "dependencies": {
+    "puppeteer": "^24.10.0"
+  }
+}
